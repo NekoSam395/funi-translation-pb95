@@ -18,7 +18,7 @@
 <t name='SpecialSkin'>Special skin!</t>
 <t name='EasterEggDesc'>You found an easter egg!</t>
 <t name='Restart'>Replay</t>
-<t name='no2'> No </t>
+<t name='no2'> Nope </t>
 <t name='RestorePurchase3'>Restore
 purchases</t>
 <t name='GameModeHardcore'>Hardcore</t>
@@ -49,7 +49,7 @@ purchases</t>
 <t name='YinandyangtBonus'>Yin and yang</t>
 <t name='BrokenPixel'>Dead pixel</t>
 <t name='soon'>soon</t>
-<t name='Stupidrestart2'>Yes, restart now!</t>
+<t name='Stupidrestart2'>Yes, kys now!</t>
 <t name='PopUpDontTap2'>I told you!</t>
 <t name='DOSMessage20'>To do list
 1.Clean my computer mouse
@@ -72,7 +72,7 @@ purchases</t>
 <t name='newdevice'>New device</t>
 <t name='warning2'>Do you want to replay the stage?
 You'll lose one of your hearts!</t>
-<t name='TutorialTip1'>Move your finger to move the panel</t>
+<t name='TutorialTip1'>Move the kid named Finger to move the panel</t>
 <t name='PopUpWithMine'>I have a present!</t>
 <t name='Install'>Install</t>
 <t name='Defragmentationcomplete'>Defragmentation complete</t>
@@ -639,21 +639,21 @@ Actually that means nothing... enjoy it!
 <t name='TrashDescr'>This is a food for Bin. Drag it on the Bin icon</t>
 <t name='BinTutorial'>Bin is your digital pet. You have to take care of him: clean, feed (by using trash files), tell him good words. Make Bin happy to get rewards! Otherwise it might be a nightmare </t>
 <t name='BINAMIMAD'>I'm so mad! Here are some presents for you!!!</t>
-<t name='BINYouarerude'>You are so rude!</t>
-<t name='BINYouthebest'>You are the best!</t>
-<t name='BINCleanme_1'>Please,clean me!</t>
+<t name='BINYouarerude'>Fuck you!</t>
+<t name='BINYouthebest'>My man!</t>
+<t name='BINCleanme_1'>Plz,clean me!</t>
 <t name='BINCleanme_2'>Clean me!</t>
 <t name='BINCleanme_3'>I'm full. Clean me!</t>
 <t name='BINCleanme_4'>CLEAN ME!!!</t>
-<t name='BINCleanme_5'>CLEAN ME!!!CLEAN ME!!!</t>
+<t name='BINCleanme_5'>CLEAN ME!!!CLEAN ME YOU FUCKING IDIOT!!!</t>
 <t name='BINFull_1'>I'm so full!</t>
 <t name='BINFull_2'>I'm not hungry!</t>
 <t name='BINFull_3'>I have a lot of files inside!</t>
-<t name='BINHI_1'>You again...</t>
+<t name='BINHI_1'>GO OUT!!</t>
 <t name='BINHI_2'>Hi...</t>
 <t name='BINHI_3'>Hello!</t>
 <t name='BINHI_4'>Hello! I'm glad to see you!</t>
-<t name='BINHI_5'>Hello! I'm happy to see you! I love you!</t>
+<t name='BINHI_5'>Hello! I'm happy to see you! I love you! <3</t>
 <t name='BinIsNotReady_1'>I’m not ready for cleaning yet. Wait for tomorrow!</t>
 <t name='BinIsNotReady_2'>I've said that I'm not ready!</t>
 <t name='BinIsNotReady_3'>Please, let me alone!</t>
@@ -673,9 +673,9 @@ Actually that means nothing... enjoy it!
 <t name='Bin_badyou_4'>Sob...</t>
 <t name='Bin_badyou_5'>Not funny!</t>
 <t name='Bin_ques_1_0'>I'm bored. Can you tell me a fairy tale? Please!</t>
-<t name='Bin_ques_1_1'>Yes! Of course! Once upon a time, there was a Bin...</t>
+<t name='Bin_ques_1_1'>I have no fairy tale my dear...</t>
 <t name='Bin_ques_1_2'>Maybe next time</t>
-<t name='Bin_ques_1_3'>Go away! Get a job!</t>
+<t name='Bin_ques_1_3'>Yes! Of course! Once upon a time, there was a Bin and he died lmao</t>
 <t name='Bin_ques_2_0'>Do you love me? I need to know</t>
 <t name='Bin_ques_2_1'>Yes! I love you very much!</t>
 <t name='Bin_ques_2_2'>Not now...</t>
@@ -725,8 +725,8 @@ Actually that means nothing... enjoy it!
 <t name='PBNPink'>Pink</t>
 <t name='CustomUsername'>Custom username and userpic</t>
 <t name='BinClean'>Clean</t>
-<t name='BinCaress'>Caress</t>
-<t name='BinRazz'>Razz</t>
+<t name='BinCaress'>Pat</t>
+<t name='BinRazz'>Slap</t>
 <t name='BinMad'>Mad</t>
 <t name='BinSad'>Sad</t>
 <t name='BinDepressed'>Depressed</t>
@@ -769,9 +769,9 @@ Actually that means nothing... enjoy it!
 <t name='TaskbarOption2'>High taskbar</t>
 <t name='TaskbarOption3'>Black insert</t>
 <t name='ach_descr_pch'>Unlock skin</t>
-<t name='ach_pch'>Progressbar Chitown</t>
-<t name='PchDescr'>Progressbar Chitown is a 'spiritual predecessor' of Progressbar 95, its early edition. The system recreates gameplay features of the very first public version of Progressbar 95 [ver. 0.21]. It has only one game mode and a limited number of popups and segments. There are no utilities to help you. So the gameplay is a little bit harder, that is a great way to challenge your skills!</t>
-<t name='skin_pch'>Includes: (Ad free, Chitown)</t>
+<t name='ach_pch'>Progressbar Shitown</t>
+<t name='PchDescr'>Progressbar Shitown is a 'spiritual predecessor' of Progressbar 95, its early edition. The system recreates gameplay features of the very first public version of Progressbar 95 [ver. 0.21]. It has only one game mode and a limited number of popups and segments. There are no utilities to help you. So the gameplay is a little bit harder, that is a great way to challenge your skills!</t>
+<t name='skin_pch'>Includes: (Ad free, Shitown)</t>
 <t name='General'>General</t>
 <t name='ShowCursorTrail'>Display cursor trails</t>
 <t name='UseShader'>Use visual shader</t>
@@ -861,7 +861,7 @@ Actually that means nothing... enjoy it!
 <t name='ThemeRain'>Rain</t>
 <t name='ThemeRose'>Rose</t>
 <t name='ThemeSunset'>Sunset</t>
-<t name='ThemeCyberpunk98'>Cyber 98</t>
+<t name='ThemeCyberpunk98'>Cyberpunk 2098</t>
 <t name='ThemeNoire'>Noir</t>
 <t name='ThemeBlue'>Blue</t>
 <t name='ThemeClassic'>Classic</t>
@@ -870,8 +870,8 @@ Actually that means nothing... enjoy it!
 <t name='ThemePistacia'>Pistacia</t>
 <t name='ThemeArgentum'>Argentum</t>
 <t name='IconheartBonus'>Heart icon bonus</t>
-<t name='VideoDriverError'>Video driver error!</t>
-<t name='ProblemFixedItself'>The problem fixed itself</t>
+<t name='VideoDriverError'>Video driver error! Buy a new one bcuz we need mone :p</t>
+<t name='ProblemFixedItself'>The problem fixed itself but can back at any time lmao</t>
 <t name='ThemeAsphalt'>Asphalt</t>
 <t name='ThemeContrast'>Contrast</t>
 <t name='ThemeCacao'>Cacao</t>
@@ -903,7 +903,7 @@ Actually that means nothing... enjoy it!
 <t name='WindowMode'>Display mode</t>
 <t name='Fullscreen'>Fullscreen</t>
 <t name='Windowed'>Windowed</t>
-<t name='TrashTXT'>Trash.txt</t>
+<t name='TrashTXT'>Dream.txt</t>
 <t name='MoveFingerToMovePC'>Use cursor keys</t>
 <t name='TapToShootPC'>[Spacebar] to shoot</t>
 <t name='16Colors'>16 colors</t>
@@ -1189,7 +1189,7 @@ Progressbar95
 <t name='skin_b10'>Includes: (Ad free, BarOS 1,2,3,4,5,6,7,8,9,10)</t>
 <t name='ach_rmrf'>RMRF</t>
 <t name='CantRestart'>The system cannot be shut down right now. Try later</t>
-<t name='DOSMessageHidden'>This is a hidden folder. It can only been seen through Terminus</t>
+<t name='DOSMessageHidden'>This is a hidden folder. It can only been seen through Terminus: It's Termin' Time</t>
 <t name='DontPanic2'>Thank you! Emotional damage is very important!</t>
 <t name='IHavePanicAttack'>A-A-A-A! I'm having an emotional damage!</t>
 <t name='ach_dontpanic'>Just panic!</t>
@@ -1218,7 +1218,7 @@ Progressbar95
 <t name='Spacebar'>Spacebar</t>
 <t name='Unresponsive'>unresponsive</t>
 <t name='UnresponsiveProcess'>The process does not response. Try again?</t>
-<t name='SuspiciousProcess'>Suspicious</t>
+<t name='SuspiciousProcess'>Sus ඞ</t>
 <t name='Bye'>Bye-Bye!</t>
 <t name='TaskCloseDescription'>Collect Ctrl, Alt and Del keys to unlock 'Processes' utility</t>
 <t name='ach_descr_ctrlaltdel'>Collect keys</t>
@@ -1411,12 +1411,12 @@ Icoeye and Spooky House Studios</t>
 <t name='Corrupted'>Corrupted:</t>
 <t name='ach_questions'>???</t>
 <t name='ach_descr_questions'>??????????</t>
-<t name='ExperimentalDriverDescr'>This is an experimental driver! The result of its use is completely unpredictable! Do you want to continue?</t>
+<t name='ExperimentalDriverDescr'>This is an experimental driver! The result of its use is completely absolutely predictable! Continue, now!</t>
 <t name='ExperimentalDriver'>Experimental driver</t>
 <t name='DPace'>Rate of fire</t>
 <t name='Deactivated'>Deactivated</t>
-<t name='ProtectionModule'>System File Shield (SFS)</t>
-<t name='SystemShieldIsTurnedOff'>System File Shield (SFS) has been turned off</t>
+<t name='ProtectionModule'>System Fucking Shield (SFS)</t>
+<t name='SystemShieldIsTurnedOff'>System Fucking Shield (SFS) has been turned on :trollface:</t>
 <t name='Protected'>Protected</t>
 <t name='DefeatBoss'>You defeat me! But I have a backup! See you soon! Have a nice day!</t>
 <t name='ProtectivePanel'>Protective panel</t>
@@ -1536,12 +1536,12 @@ STATUS: UNKNOWN 3
 <t name='MagicHyperlink'>Magic hyperlink</t>
 <t name='YourBrowserBonusesAreTaken'>All your browser bonuses and cookies are belong to us!</t>
 <t name='BrowserPoints'>Browser points</t>
-<t name='Meme'>Memes</t>
+<t name='Meme'>Funi Memes</t>
 <t name='BrowserBufferOverflow'>Buffer overflow! Too many points!</t>
 <t name='YouVeBlockDanger'>You've deactivated a dangerous script!</t>
 <t name='Open'>Open</t>
-<t name='MoreAsteriks'>You need more asteriks (*)</t>
-<t name='PasswordTaken'>!!All you asteriks (*) are belong to us!!</t>
+<t name='MoreAsteriks'>You need mor asterix (*)</t>
+<t name='PasswordTaken'>!!All you're asterix (*) are belong to us!!</t>
 <t name='ThankYouForReadingNonsense'>Thanks for reading all this nonsense</t>
 <t name='DialUpConnection'>Dial-up access</t>
 <t name='Connect'>Connect</t>
