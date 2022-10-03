@@ -1016,21 +1016,21 @@ This is your virtual in-game mailbox. You'll receive various messages and decide
 
 Have a great day
 Icoeye and Spooky House Studios</t>
-<t name='Mail_Subject_1'>Welcome to mailbox</t>
+<t name='Mail_Subject_1'>Welcome to mailcube</t>
 <t name='Mail_Reply_2_1'>When is the next update coming?</t>
-<t name='Mail_Subject_2'>Mail email spam message</t>
-<t name='Mail_YouAreSpammer'>You are a spammer!</t>
-<t name='Mail_StopSendingSpam'>Stop sending email spam!</t>
+<t name='Mail_Subject_2'>Mail email spa, message</t>
+<t name='Mail_YouAreSpammer'>You are a spa,er!</t>
+<t name='Mail_StopSendingSpam'>Stop sending email spa,!</t>
 <t name='Mail_SpamText1'>Hello!
 
-This is a very annoying spam message!
+This is a very annoying spa, message!
 
 Have a great day!</t>
-<t name='Mail_SpamText2'>Email spam, Email spam, Email spam… Lovely email spam! Amazing email spam!</t>
+<t name='Mail_SpamText2'>Email spa, Email spa, Email spa,… Lovely email spa,! Amazing email spa,!</t>
 <t name='Mail_Dontlikespam'>I don’t like email spam!</t>
-<t name='Mail_SpamFrom3'>Gary Spammer</t>
-<t name='Mail_SpamSubject3'>PBSYSTEM-21 presentation</t>
-<t name='Mail_SpamText3'>We invite you to come see and hear about PBSYSTEM-21 family at the product presentation we will giving this month</t>
+<t name='Mail_SpamFrom3'>Gary Spa,er</t>
+<t name='Mail_SpamSubject3'>Nort VPN presentation</t>
+<t name='Mail_SpamText3'>We invite you to come see and hear about Nort VPN family at the product presentation we will giving this month</t>
 <t name='Mail_SpamFrom4'>Prince Clippy</t>
 <t name='Mail_SpamSubject4'>Message #419</t>
 <t name='Mail_SpamText4'>Dear friend,
@@ -1055,16 +1055,16 @@ Mr. Clippy III, a fake Prince of Progressbaria</t>
 <t name='Mail_BestDeal'>Best deals! Sales! Discounts! I know that this is annoying and I'm proud of that!</t>
 <t name='Mail_BonusFromDog'>Dear friend,
 
-My name is Dog. I'm a good character from the game Progressbar95. If you ask politely, I'll give you a bonus.
+My name is Dog (whut da dog doin?). I'm a good character from the game Progressbar95. If you ask politely, I'll give you a bonus.
 
 Yours sincerely,
-Mr. Dog</t>
+Mr. Dog Doin</t>
 <t name='Mail_BonusFromDog2'>Dear friend,
 
 Here is your bonus! I love you!
 
 Yours sincerely,
-Mr. Dog</t>
+Mr. Dog Doin</t>
 <t name='Mail_SpamPrinceAnswer2'>
 You are very lucky! I'm a real Prince! Most of such messages are fakes, but this one was real.
 
@@ -1191,8 +1191,8 @@ Progressbar95
 <t name='CantRestart'>The system cannot be shut down right now. Try later</t>
 <t name='DOSMessageHidden'>This is a hidden folder. It can only been seen through Terminus</t>
 <t name='DontPanic2'>Thank you! Emotional damage is very important!</t>
-<t name='IHavePanicAttack'>A-A-A-A! I'm having a panic attack!</t>
-<t name='ach_dontpanic'>Don't panic!</t>
+<t name='IHavePanicAttack'>A-A-A-A! I'm having an emotional damage!</t>
+<t name='ach_dontpanic'>Just panic!</t>
 <t name='ach_descr_dontpanic'>Emotional damage</t>
 <t name='ach_descr_rmrf'>Clean without question</t>
 <t name='EnterCheat'>Enter cheat code:</t>
@@ -1252,20 +1252,20 @@ Progressbar95
 <t name='Message'>Message</t>
 <t name='ach_b14'>Bar OS 12</t>
 <t name='ach_descr_b14'>Unlock skin</t>
-<t name='GameModeRelaxTag'>Tag Mini Max</t>
+<t name='GameModeRelaxTag'>Tag mini SE</t>
 <t name='GameModeNormalTag'>Tag</t>
-<t name='GameModeHardcoreTag'>Tag Maxi Max</t>
+<t name='GameModeHardcoreTag'>Tag Maxi Max Ultra Pro Plus</t>
 <t name='Urgent'>Urgent!</t>
 <t name='Mail_WhatITMeans'>Hi!
 
-I have an urgent question! What does IT means??? 
+I have an urgent question! What does IP means??? 
 
 Boss,
 Have a great day!
 </t>
-<t name='WhatITMeans1'>Internet Things</t>
-<t name='WhatITMeans2'>Interesting Thoughts</t>
-<t name='WhatITMeans3'>Information Technology</t>
+<t name='WhatITMeans1'>Turi Ip Ip Ip</t>
+<t name='WhatITMeans2'>you're IP address doxxed lmao</t>
+<t name='WhatITMeans3'>I Pee</t>
 
 <t name='MailRamOrMemory'>Hi!
 
