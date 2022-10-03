@@ -89,7 +89,7 @@ Setup will take from 5 to 10 seconds</t>
 <t name='Privacy1'>By clicking 'OK' or continuing to use this game, you acknowledge that you accept our Privacy Policy. The game uses cookies and analytics to provide you with the best possible experience</t>
 <t name='PrivacyWelcome'>Welcome to ProgressBar 95</t>
 <t name='DoYouKnow'>Do you know?</t>
-<t name='Bsod1'>GAME OVER</t>
+<t name='Bsod1'>YOUR SKILL IS NOT ENOUGH!</t>
 <t name='Stupidrestart4'>Remind me tomorrow</t>
 <t name='RestorePurchase'>Restore purchases</t>
 <t name='Newgame'>New game</t>
@@ -1190,10 +1190,10 @@ Progressbar95
 <t name='ach_rmrf'>RMRF</t>
 <t name='CantRestart'>The system cannot be shut down right now. Try later</t>
 <t name='DOSMessageHidden'>This is a hidden folder. It can only been seen through Terminus</t>
-<t name='DontPanic2'>Thank you! Emotional support is very important!</t>
+<t name='DontPanic2'>Thank you! Emotional damage is very important!</t>
 <t name='IHavePanicAttack'>A-A-A-A! I'm having a panic attack!</t>
 <t name='ach_dontpanic'>Don't panic!</t>
-<t name='ach_descr_dontpanic'>Emotional support</t>
+<t name='ach_descr_dontpanic'>Emotional damage</t>
 <t name='ach_descr_rmrf'>Clean without question</t>
 <t name='EnterCheat'>Enter cheat code:</t>
 <t name='NoHelp'>Help! There is no help! Help!</t>
@@ -1403,7 +1403,7 @@ Icoeye and Spooky House Studios</t>
 <t name='DecompilerGun'>Decompiler Gun</t>
 <t name='DecompilerGunSettings'>Decompiler Gun options</t>
 <t name='BonusDriver'>Bonus driver</t>
-<t name='MathProtect'>Math protects me!</t>
+<t name='MathProtect'>9 + 10 = 21</t>
 <t name='HapticFeedback'>Haptic feedback (vibration)</t>
 <t name='HapticFeedback2'>HDD vibration haptic simulation</t>
 <t name='ILikePink'>I like pink!</t>
@@ -1575,7 +1575,7 @@ STATUS: UNKNOWN 3
 <t name='AnnoyingBell'>Ring the bell?</t>
 <t name='DingDong'>Ding dong!</t>
 <t name='TryPostLater'>Return later</t>
-<t name='TooManyPosts'>You are temporarily banned because of spamming</t>
+<t name='TooManyPosts'>You are temporarily banned because of spa,</t>
 <t name='Search'>Search</t>
 <t name='SResults'>Search results:</t>
 <t name='NothingFound'>No results found</t>
@@ -1590,19 +1590,19 @@ STATUS: UNKNOWN 3
 <t name='SuspiciousSite1'>Suspicious site</t>
 <t name='SuspiciousSite1D'>This is a totally normal site</t>
 <t name='TakeACookie'>Take a cookie</t>
-<t name='AskForCookie'>Give him a cookie</t>
+<t name='AskForCookie'>Give him a bad cookie :trollface:</t>
 <t name='PolicyText'>Miscellaneous legal gibberish nobody ever reads.</t>
 <t name='Sourcecode'>Source code</t>
 <t name='YouAreOffline'>Offline</t>
 <t name='YouAreOfflineD'>You are not connected to the Progressnet</t>
-<t name='DangerouslWebsite1'>Dangerous site!</t>
+<t name='DangerouslWebsite1'>Safe site!</t>
 <t name='Deactivate'>Deactivate</t>
 <t name='CollectibleWebsite'>A collectible website</t>
-<t name='Maximum95'>Maximum 95 symbols...</t>
+<t name='Maximum95'>Maximum 9500 paragraph...</t>
 <t name='CreatePost'>Create post</t>
-<t name='Collectible'>Collectible</t>
+<t name='Collectible'>Collectible NFTs</t>
 <t name='MyWebsite'>My homepage</t>
-<t name='MypageDescr'>I'm the best Progressbar95 player in the world! I know all its secrets!</t>
+<t name='MypageDescr'>I'm the worst Progressbar95 player in the world! Idk all its secrets lmao!</t>
 <t name='BrokenSite'>Broken site</t>
 <t name='LinkOfTheDay'>Link Of The Day</t>
 <t name='LinkOfTheDay2'>Trending link</t>
